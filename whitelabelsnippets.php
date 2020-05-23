@@ -22,7 +22,7 @@ require_once(plugin_dir_path(__FILE__).'/script.php');
 //Update Checker
 require 'plugin-update-checker-master/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/iftikharalam73/WhitelabelSnippets/',
+	'https://github.com/iftikharalam73/WhitelabelSnippets',
 	__FILE__,
 	'unique-plugin-or-theme-slug'
 );
