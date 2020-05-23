@@ -4,7 +4,7 @@
  * Description: Take the guesswork out of WordPress security.
  * Plugin URI: https://iftikharalam.com/
  * Author: Iftikhar Alam
- * Version: 0.1
+ * Version: 0.2
  * Author URI: https://iftikharalam.com/
  *
  * Text Domain: Iftikhar alam
